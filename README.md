@@ -15,5 +15,4 @@ A short, end-to-end experimentation case study: define a metric, run an A/B test
 - `figures/` - charts for the README  
 - `data_sample/` - sample/synthetic data  
 
-## Next step
-Add a small synthetic dataset and run the full analysis in a notebook.
+
