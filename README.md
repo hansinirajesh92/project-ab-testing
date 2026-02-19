@@ -10,10 +10,10 @@ A short, end-to-end experimentation case study: define a metric, run an A/B test
 - Clear decision + recommendation
 
 ## Repo structure
-- `notebooks/` — analysis notebooks  
-- `src/` — helper code  
-- `figures/` — charts for the README  
-- `data_sample/` — sample/synthetic data  
+- `notebooks/` - analysis notebooks  
+- `src/` - helper code  
+- `figures/` - charts for the README  
+- `data_sample/` - sample/synthetic data  
 
 ## Next step
 Add a small synthetic dataset and run the full analysis in a notebook.
