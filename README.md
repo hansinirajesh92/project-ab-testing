@@ -30,3 +30,5 @@ Two-proportion z-test (two-sided):
 
 **Decision:** No statistically significant improvement from the new page. Recommend keeping the old page (or iterating on the new design and retesting).
 
+![Conversion Rate by Group](figures/conversion_rate_by_group.png)
+
