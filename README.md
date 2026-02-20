@@ -9,6 +9,8 @@ A short, end-to-end experimentation case study: define a metric, run an A/B test
 - Effect size + practical significance
 - Clear decision + recommendation
 
+📓 Notebook: [01_load_and_summary.ipynb](notebooks/01_load_and_summary.ipynb)
+
 ## Repo structure
 - `notebooks/` - analysis notebooks  
 - `src/` - helper code  
