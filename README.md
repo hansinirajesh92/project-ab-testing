@@ -15,4 +15,16 @@ A short, end-to-end experimentation case study: define a metric, run an A/B test
 - `figures/` - charts for the README  
 - `data_sample/` - sample/synthetic data  
 
+## Results
+After removing mismatched assignments (control shown new_page or treatment shown old_page), the estimated conversion rates were:
+
+- Control (old_page): **12.04%**
+- Treatment (new_page): **11.88%**
+- Difference (Treatment - Control): **−0.16 percentage points**
+
+Two-proportion z-test (two-sided):
+- **p-value:** 0.1897  
+- **95% CI for difference:** [-0.39 pp, +0.08 pp]
+
+**Decision:** No statistically significant improvement from the new page. Recommend keeping the old page (or iterating on the new design and retesting).
 
