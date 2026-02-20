@@ -1,2 +1,1 @@
-![Conversion Rate by Group](figures/conversion_rate_by_group.png)
-
+Charts used in the main README.
